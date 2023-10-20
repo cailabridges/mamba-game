@@ -1,4 +1,4 @@
-# [Project 2: Mamba Game]
+# Project 2: Mamba Game
 
 ## Table of Contents
 * [About](#about-mamba-game)
